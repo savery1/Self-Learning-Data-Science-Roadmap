@@ -30,7 +30,7 @@ In order to fully take advantage of this repository I suggest the following:
 ---> More to come on this.
 
 # Medium Articles
----> More to come on this.  I will go into personal depth with how to analyze basic problems and models using techqniues such as linear regressions, A/B Testing, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
+---> More to come on this. I will be uploading my own content onto this and I'll go into personal depth with how to analyze basic problems and models using techqniues such as linear regressions, A/B Testing, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
 
 # Download Python
 Use this link to download [Anaconda](https://www.anaconda.com/products/individual).  Anaconda is package that will install Python (Spyder IDE) and Jupyter Notebooks.
@@ -87,3 +87,21 @@ NumPy is a Python library used for working with arrays.
 ### Additional Resources
 * :closed_book: [101 Python Excercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) - Highly recommend doing these at the end of all the lessons above.  These excercises ask you the question, show the desired output, and the solution. If you can't solve the question, reserach it online first before looking at the solution.
 * :closed_book: [Extensive NumPy Tutorial](https://www.tutorialspoint.com/numpy/)
+
+## Pandas
+---> More to come on this
+
+## Matplotlib
+---> More to come on this
+
+## Seaborn
+---> More to come on this
+
+## TensorFlow
+---> More to come on this
+
+## Recommended Projects
+---> More to come on this
+
+## Recommended Paid Content
+---> More to come on this
