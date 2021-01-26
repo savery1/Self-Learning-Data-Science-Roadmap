@@ -1,7 +1,6 @@
 # Self-Learning-Data-Science-Roadmap
 Self-Learning Data Science Roadmap for anyone interested in how to break into the field!
 
-## Mission:
 This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources (some paid) that I have found scattered across the internet.  These resources have been consolidated into a single repository to help build the mindset and skills required to learn about the field.  
 
 ## Data Science vs Data Analytics vs Data Engineering - What's the Difference?
