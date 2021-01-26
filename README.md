@@ -23,7 +23,7 @@ In order to fully take advantage of this repository I suggest the following:
 * :closed_book: Online Article Content
 
 # Medium Articles
----> More to come on this. I will be uploading my own content onto Medium (will post links to the articles) and I'll go into depth with how to analyze basic problems and models using techqniues such as linear regressions, A/B Testing, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
+---> More to come on this. I will be uploading my own content onto Medium (will post links to the articles) and I'll go into depth with how to analyze basic problems and models using techniquess such as linear regressions, A/B Testing, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
 
 # Statistics / Linear Algebra
 ---> More to come on this.
