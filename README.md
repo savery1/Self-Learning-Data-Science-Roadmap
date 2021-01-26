@@ -22,14 +22,11 @@ In order to fully take advantage of this repository I suggest the following:
 * :video_camera: Video Content
 * :closed_book: Online Article Content
 
-# Statistics
----> More to come on this.
-
-# Linear Algebra
----> More to come on this.
-
 # Medium Articles
 ---> More to come on this. I will be uploading my own content onto this and I'll go into personal depth with how to analyze basic problems and models using techqniues such as linear regressions, A/B Testing, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
+
+# Statistics / Linear Algebra
+---> More to come on this.
 
 # Download Python
 Use this link to download [Anaconda](https://www.anaconda.com/products/individual).  Anaconda is package that will install Python (Spyder IDE) and Jupyter Notebooks.
