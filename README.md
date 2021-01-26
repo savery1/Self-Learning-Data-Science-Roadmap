@@ -86,7 +86,7 @@ NumPy is a Python library used for working with arrays.
 * :closed_book: [Vector Stacking](https://numpy.org/doc/stable/user/quickstart.html#vector-stacking)
 ### Additional Resources
 * :closed_book: [101 Python Excercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) - Highly recommend doing these at the end of all the lessons above.  These excercises ask you the question, show the desired output, and the solution. If you can't solve the question, reserach it online first before looking at the solution.
-* :closed_book: [Extensive NumPy Tutorial](https://www.tutorialspoint.com/numpy/)
+* :closed_book: [Extensive NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - Extensive tutorial that covers NumPy and its relation to other Python features.
 
 ## Pandas
 ---> More to come on this
@@ -103,5 +103,5 @@ NumPy is a Python library used for working with arrays.
 ## Recommended Projects
 ---> More to come on this
 
-## Recommended Paid Content
+## Recommended Paid Content for Additional Learning
 ---> More to come on this
