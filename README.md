@@ -12,7 +12,8 @@ These terms are wrongly used interchangably among people. There are distinct dif
 ## Recommended Path to Follow
 In order to fully take advantage of this repository I suggest the following: 
 * Brush up on the math/stats 
-* Learn Python basics (syntax, lists, loops, etc...)
+* Learn Python basics 
+* Learn Python advanced
 * Learn Python basic Data Science libraries (numpy, pandas, matplotlib, seaborn etc...)
 * Learn Python Machine Learning (Scikit-Learn)
 * Learn Python Deep Learning (Tensorflow)
@@ -26,8 +27,43 @@ In order to fully take advantage of this repository I suggest the following:
 # Medium Articles
 ---> More to come on this. I will be uploading my own content onto Medium (will post links to the articles) and I'll go into depth with how to analyze basic problems and models using techniques such as linear regressions, A/B Testing, neural networks, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
 
-# Statistics / Linear Algebra
----> More to come on this.
+# Statistics / Probability 
+## Descriptive Statistics
+* :closed_book:  [Introduction to Descriptive Statistics](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
+
+## Probability
+* :video_camera: [Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
+* :video_camera: [Sample Spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
+* :video_camera: [Set Operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
+* :video_camera: [Addition Rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)
+* :video_camera: [Multiplication Rule for Independent Events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
+* :video_camera: [Multiplication Rule for Dependent Events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
+* :video_camera: [Conditional Probability and Independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
+
+## Combinations and Permutations
+* :video_camera: [Counting Principle and Fractorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
+* :video_camera: [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
+* :video_camera: [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
+
+## Distributions
+* :video_camera: [Normal distribution and the Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions)
+* :video_camera: [Introduction to Sampling Distributions](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/what-is-a-sampling-distribution/v/introduction-to-sampling-distributions)
+* :video_camera: [Sampling distribution of a sample proportion](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions/v/sampling-distribution-of-sample-proportion-part-1)
+* :video_camera: [Sampling distribution of a sample mean](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/statistics-sample-vs-population-mean)
+
+## Confidence Intervals
+* :video_camera: [Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/introduction-to-confidence-intervals/v/confidence-intervals-and-margin-of-error)
+* :video_camera: [Estimating Sample Proportions](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/confidence-interval-example)
+* :video_camera: [Estimating Sample Means](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/introduction-to-t-statistics)
+
+## Hypothesis Testing
+* :video_camera: [Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing)
+* :video_camera: [Error Probabilities and Power](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/introduction-to-type-i-and-type-ii-errors)
+* :video_camera: [Tests about a Population Proportion](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion/v/constructing-hypotheses-for-a-significance-test)
+* :video_camera: [Tests about a Population Mean](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/writing-hypotheses-for-significance-test-about-means)
+
+# Linear Algebra
+---> More to come on this
 
 # Download Python
 Use this link to download [Anaconda](https://www.anaconda.com/products/individual).  Anaconda is package that will install Python (Spyder IDE) and Jupyter Notebooks.
@@ -45,6 +81,20 @@ Use this link to download [Anaconda](https://www.anaconda.com/products/individua
 * :closed_book: [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
 * :closed_book: [Dictionaries](https://www.learnpython.org/en/Dictionaries)
 * :closed_book: [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)
+
+# Python Programming Advanced
+* :closed_book: [Generators](https://www.learnpython.org/en/Generators)
+* :closed_book: [List Comprehensions](https://www.learnpython.org/en/List_Comprehensions) - Know this.  
+* :closed_book: [Multiple Function Arguments](https://www.learnpython.org/en/Multiple_Function_Arguments)
+* :closed_book: [Regular Expressions](https://www.learnpython.org/en/Regular_Expressions)
+* :closed_book: [Exception Handling](https://www.learnpython.org/en/Exception_Handling)
+* :closed_book: [Sets](https://www.learnpython.org/en/Sets)
+* :closed_book: [Serialization](https://www.learnpython.org/en/Serialization)
+* :closed_book: [Partial Functions](https://www.learnpython.org/en/Partial_functions)
+* :closed_book: [Code Introspection](https://www.learnpython.org/en/Code_Introspection)
+* :closed_book: [Closures](https://www.learnpython.org/en/Closures)
+* :closed_book: [Decorators](https://www.learnpython.org/en/Decorators) - Know this.
+* :closed_book: [Map, Filter, Reduce](https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce) - Know this.
 
 # Python Data Science Libraries
 ## NumPy 
