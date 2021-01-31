@@ -14,7 +14,8 @@ In order to fully take advantage of this repository I suggest the following:
 * Brush up on the math/stats 
 * Learn Python basics (syntax, lists, loops, etc...)
 * Learn Python basic Data Science libraries (numpy, pandas, matplotlib, seaborn etc...)
-* Learn Python Machine Learning (Tensorflow)
+* Learn Python Machine Learning (Scikit-Learn)
+* Learn Python Deep Learning (Tensorflow)
 * Practice all the above
 * Basic project
 
@@ -23,7 +24,7 @@ In order to fully take advantage of this repository I suggest the following:
 * :closed_book: Online Article Content
 
 # Medium Articles
----> More to come on this. I will be uploading my own content onto Medium (will post links to the articles) and I'll go into depth with how to analyze basic problems and models using techniquess such as linear regressions, A/B Testing, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
+---> More to come on this. I will be uploading my own content onto Medium (will post links to the articles) and I'll go into depth with how to analyze basic problems and models using techniques such as linear regressions, A/B Testing, neural networks, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
 
 # Statistics / Linear Algebra
 ---> More to come on this.
@@ -81,7 +82,7 @@ NumPy is a Python library used for working with arrays.
 * :closed_book: [Automatic Reshaping](https://numpy.org/doc/stable/user/quickstart.html#automatic-reshaping)
 * :closed_book: [Vector Stacking](https://numpy.org/doc/stable/user/quickstart.html#vector-stacking)
 ### Additional Resources
-* :closed_book: [101 Python Excercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) - Highly recommend doing these at the end of all the lessons above.  These excercises ask you the question, show the desired output, and the solution. If you can't solve the question, reserach it online first before looking at the solution.
+* :closed_book: [101 Python Excercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) - Highly recommend doing these at the end of all the lessons above.  These excercises ask you the question, show the desired output, and the solution. If you can't solve the question, research it online first before looking at the solution.
 * :closed_book: [Extensive NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - Extensive tutorial that covers NumPy and its relation to other Python features.
 
 ## Pandas
@@ -91,6 +92,9 @@ NumPy is a Python library used for working with arrays.
 ---> More to come on this
 
 ## Seaborn
+---> More to come on this
+
+## Scikit-Learn
 ---> More to come on this
 
 ## TensorFlow
