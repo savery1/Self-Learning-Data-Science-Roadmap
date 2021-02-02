@@ -63,7 +63,21 @@ In order to fully take advantage of this repository I suggest the following:
 * :video_camera: [Tests about a Population Mean](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/writing-hypotheses-for-significance-test-about-means)
 
 # Linear Algebra
----> More to come on this
+## Vectors and Spaces
+* :video_camera: [Vectors](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+* :video_camera: [Linear Combinations and Span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span)
+* :video_camera: [Linear Dependence and Independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
+* :video_camera: [Linear Subspace](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
+
+## Dot Product
+* :video_camera: [Vector Dot and Cross Product](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
+
+## Matrix Transformations
+* :video_camera: [Functions and Linear Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions)
+* :video_camera: [Transformations and Matrix Multiplications](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1)
+* :video_camera: [Inverse Functions and Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function)
+* :video_camera: [Inverses and Determinants](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-deriving-a-method-for-determining-inverses)
+* :video_camera: [Transpose of a Matrix](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix)
 
 # Download Python
 Use this link to download [Anaconda](https://www.anaconda.com/products/individual).  Anaconda is package that will install Python (Spyder IDE) and Jupyter Notebooks.
