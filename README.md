@@ -79,6 +79,19 @@ In order to fully take advantage of this repository I suggest the following:
 * :video_camera: [Inverses and Determinants](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-deriving-a-method-for-determining-inverses)
 * :video_camera: [Transpose of a Matrix](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix)
 
+## Eigenvalues and Eigenvectors
+* :closed_book: [Eigenvalues and Eigenvectors](https://www.mathsisfun.com/algebra/eigenvalue.html)
+
+## Integrals
+* :video_camera: [Approximation with Riemann Sums](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums/v/simple-riemann-approximation-using-rectangles)
+* :video_camera: [Definite Integrals with Riemann Sums](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-definite-integral-definition/v/riemann-sums-and-integrals)
+* :video_camera: [The Fundamental Theorem of Calculus and Accumulation Functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-ftc-part-1/v/fundamental-theorem-of-calculus)
+* :video_camera: [Properties of Definite Integrals](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-prop/v/negative-definite-integrals)
+* :video_camera: [The Fundamental Theorem of Calculus and Definite Integrals](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-ftc-part-2/v/connecting-the-first-and-second-fundamental-theorems-of-calculus)
+* :video_camera: [Reverse Power Rule](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-reverse-power-rule/v/indefinite-integrals-of-x-raised-to-a-power)
+* :video_camera: [Indefinite Integrals of Common Functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-common-indefinite-integrals/v/antiderivative-of-x-1)
+* :video_camera: [Definite Integrals of Common Functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-common-definite-integrals/v/reverse-power-rule-for-definite-integrals)
+
 # Download Python
 Use this link to download [Anaconda](https://www.anaconda.com/products/individual).  Anaconda is package that will install Python (Spyder IDE) and Jupyter Notebooks.
 
